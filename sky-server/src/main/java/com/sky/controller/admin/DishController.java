@@ -17,12 +17,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Set;
 
-/**
- * @Classname DishController
- * @Description 菜品管理
- * @Date 2024/2/15 10:01
- * @Created by wangxiaojie
- */
 @RestController
 @RequestMapping("/admin/dish")
 @Slf4j

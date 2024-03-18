@@ -29,12 +29,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Classname SetmealServiceImpl
- * @Description
- * @Date 2024/2/15 17:07
- * @Created by wangxiaojie
- */
 @Service
 @Slf4j
 public class SetmealServiceImpl implements SetmealService {

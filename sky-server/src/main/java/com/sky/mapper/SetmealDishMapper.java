@@ -9,12 +9,6 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
-/**
- * @Classname SetmealDishMapper
- * @Description
- * @Date 2024/2/15 12:21
- * @Created by wangxiaojie
- */
 @Mapper
 public interface SetmealDishMapper {
 

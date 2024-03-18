@@ -10,12 +10,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @Classname SetmealService
- * @Description
- * @Date 2024/2/15 17:06
- * @Created by wangxiaojie
- */
 public interface SetmealService {
 
 

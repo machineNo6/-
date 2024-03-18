@@ -16,12 +16,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @Classname SetmealController
- * @Description
- * @Date 2024/2/15 16:59
- * @Created by wangxiaojie
- */
 @RestController
 @RequestMapping("/admin/setmeal")
 @Api(tags = "套菜相关接口")
